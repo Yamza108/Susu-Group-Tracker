@@ -1,0 +1,6 @@
+susu\Cli.class
+susu\Payout.class
+susu\SusuGroup.class
+susu\CloseResult.class
+susu\SusuGroup$Status.class
+susu\Report.class
